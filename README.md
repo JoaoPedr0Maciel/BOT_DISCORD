@@ -13,7 +13,7 @@ Este é um bot Discord desenvolvido em Python usando a biblioteca discord.py. O 
 1. **Clone este repositório:**
 
    ```bash
-   git clone https://github.com/seuusuario/seuprojeto.git
+   git clone https://github.com/JoaoPedr0Maciel/BOT_DISCORD
    ```
 
 2. **Navegue até o diretório do projeto:**
